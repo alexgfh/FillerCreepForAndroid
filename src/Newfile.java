@@ -1,4 +1,6 @@
-//Some comment
+/*
+ * new comment
+ */
 public class Newfile {
 
 }
